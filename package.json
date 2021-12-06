@@ -1,0 +1,10 @@
+{
+    "name": "myapp",
+    "version": "1.0.0",
+    "main": "server.js",
+    "author": "username",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
